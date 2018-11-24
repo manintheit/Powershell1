@@ -1,2 +1,3 @@
 # Powershell1
 This is the sample Powershell Script that reads a file and parse it with defined delimiter...
+It uses most used powershell script file manipulation functions.
